@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d7efcf4-c361-4797-bd86-bf618b9ce7de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/B1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/C1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/D1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/D1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface2.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface3.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Interface3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Segregation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Segregation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Segregation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/interfaceSegregation/Segregation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/AirVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/AirVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/RoadVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/RoadVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/SingleResponsibility1.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/SingleResponsibility1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/SingleResponsibility2.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/SingleResponsibility2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/SingleResponsibility3.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/SingleResponsibility3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/Vehicle3.class" beforeDir="false" afterPath="$PROJECT_DIR$/designPrinciples/sevenPrinciples/target/classes/cn/itsqq/singleResponsibility/Vehicle3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qtQD7sJEymhmNd1pbK8GSenIKM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d7efcf4-c361-4797-bd86-bf618b9ce7de" name="Default Changelist" comment="" />
+      <created>1617896283130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617896283130</updated>
+      <workItem from="1617896284811" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
