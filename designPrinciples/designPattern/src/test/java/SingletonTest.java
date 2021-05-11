@@ -1,4 +1,5 @@
 import com.itsqq.singleton.doubleCheck.SingletonDoubleCheck;
+import com.itsqq.singleton.enmu.SingletonEnum;
 import com.itsqq.singleton.hungryChinese.SingletonHungryChineseTypeOne;
 import com.itsqq.singleton.hungryChinese.SingletonHungryChineseTypeTwo;
 import com.itsqq.singleton.lazyMan.SingletonLazyManTypeOne;
@@ -96,5 +97,20 @@ public class SingletonTest {
         System.out.println(instance1 == instance2);
         System.out.println("instance1.hashCode() = "+instance1.hashCode());
         System.out.println("instance2.hashCode() = "+instance2.hashCode());
+    }
+
+    /**
+     *   单例模式——枚举（线程安全）
+     */
+    @Test
+    public void test8(){
+        System.out.println("枚举（线程安全）");
+        SingletonEnum instance1 = SingletonEnum.INSTANCE;
+        SingletonEnum instance2 = SingletonEnum.INSTANCE;
+        System.out.println(instance1 == instance2);
+        System.out.println("instance1.hashCode() = "+instance1.hashCode());
+        System.out.println("instance2.hashCode() = "+instance2.hashCode());
+        instance1.say();
+        instance2.say();
     }
 }
