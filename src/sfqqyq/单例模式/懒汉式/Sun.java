@@ -17,12 +17,22 @@ public class Sun {
     }
 
     // 使用同步锁解决多线程数据安全问题，不过效率会下降
-    public synchronized Sun getInstanceBySync(){
+    public static synchronized Sun getInstanceBySync(){
         if(sun == null){
             sun = new Sun();
         }
         return sun;
     }
 
+
+}
+
+
+class TestMain{
+
+    public static void main(String[] args) {
+        System.out.println(Sun.getInstanceBySync());
+        System.out.println(Sun.getInstanceBySync());
+    }
 
 }

@@ -7,7 +7,7 @@ public class Sun {
     // 私有化构造器
     private Sun(){}
 
-    public Sun getInstance(){ // 华山入口
+    public static Sun getInstance(){ // 华山入口
         if(sun == null){ // 观日台
             synchronized (Sun.class){ // 排队观日
                 if(sun==null){
@@ -17,6 +17,13 @@ public class Sun {
         }
         return sun; // 阳关普照，别人不必再造日
     }
+}
 
+class TestMain{
+
+    public static void main(String[] args) {
+        System.out.println(Sun.getInstance());
+        System.out.println(Sun.getInstance());
+    }
 
 }
