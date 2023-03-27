@@ -1,8 +1,8 @@
 ## 适配器模式（Adapter Pattern）
 
 ### 如何实现类适配器、对象适配器
-- 对象适配器是通用适配器，[Adapter.java](Adapter.java)
-- 类适配器是专属适配器，[TVAdapter.java](TVAdapter.java)
+- 对象适配器是通用适配器，(Adapter.java)
+- 类适配器是专属适配器，(TVAdapter.java)
 
 
 ### 适配器模式与桥接模式、代理模式的不同
